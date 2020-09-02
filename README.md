@@ -1,5 +1,5 @@
-# bear_voila
+# wiesenblumen
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/bear_voila/master?urlpath=%2Fvoila%2Frender%2Fbear_classifier.ipynb)
+https://mybinder.org/v2/gh/reto55/wiesenblumen.git/master?urlpath=%2Fvoila%2Frender%2FWiesenblumen.ipynb
 
 Demo bear classifier with fastai and Voila
